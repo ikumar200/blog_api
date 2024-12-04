@@ -1,2 +1,2 @@
-# blog_api
-Personal Blogging Platform API
+# Blog API
+- personel bloging platform api
